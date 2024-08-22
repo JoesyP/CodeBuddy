@@ -1,5 +1,8 @@
 
 CodeBuddy
+
+
+
 CodeBuddy is a local web application designed to assist developers and learners in solving programming challenges and understanding coding concepts. The app leverages the ChatGPT Assistant API to create an interactive programming tutor that offers guidance, hints, and explanations to users working on various coding projects.
 
 Features
