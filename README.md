@@ -23,6 +23,6 @@ Real-Time Feedback: Users receive instant feedback on their coding questions, he
 Tech Stack
 Frontend: HTML, CSS, JavaScript
 
-Backend: Python (for Assistant API)
+Backend: Python/Flask (for Assistant API)
 
 API: ChatGPT Assistant API (via OpenAI)
